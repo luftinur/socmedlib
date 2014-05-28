@@ -1,0 +1,229 @@
+/*
+ * SocmedLib
+ * https://github.com/patpathamham/socmedlib/
+ * http://luftinurfahmi.net/
+ *
+ * Copyright (c) 2014 Lufti Nurfahmi
+ * Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
+ */
+
+a.social-circle:hover
+{
+	text-decoration: none;
+	
+}
+.social-circle {
+	position: relative;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	/* Background Gradient */
+	background-image: -webkit-gradient(
+	linear,
+	right bottom,
+	right top,
+	color-stop(0, #D5D1D2),
+	color-stop(1, #F6F5F5)
+	);
+	background-image: -o-linear-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
+	background-image: -moz-linear-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
+	background-image: -webkit-linear-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
+	background-image: -ms-linear-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
+	background-image: linear-gradient(to top, #D5D1D2 0%, #F6F5F5 100%);
+	border: 1px solid rgba(225,225,225,1);
+	box-shadow: 0px 5px 5px rgba(0,0,0,.2);
+	-webkit-box-shadow: 0px 5px 5px rgba(0,0,0,.2);
+	color: #FFFFFF;
+	text-align: center;
+	
+	display:table;
+}
+
+.inner-circle {
+	margin: 0 auto;
+	/*width: 100%;
+	height: 100%;*/
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	box-shadow: inset 2px 4px 6px rgba(0,0,0,.1), 0px 3px 0px rgba(255,255,255,.5);
+	
+}
+
+.inner-circle i{
+	text-shadow: 0px 5px 5px rgba(0,0,0,.2);
+}
+.ico-small i {
+	margin-top:7px;
+		
+}
+
+.ico-medium i
+{
+	margin-top:9px;
+}
+
+.ico-x-medium i 
+{
+	margin-top:20px
+}
+
+
+/* Icon Size */
+.ico-small {
+	width: 48px;
+	height: 48px;
+	/*padding: 6px;*/
+	font-size: 20px;
+}
+
+.ico-small .inner-circle
+{
+	width:80%;
+	height:80%;
+	margin-top:5px;
+}
+
+.ico-medium {
+	width: 72px;
+	height: 72px;
+	/*padding: 8px;*/
+	font-size: 32px;
+}
+
+.ico-medium .inner-circle
+{
+	width:80%;
+	height:80%;
+	margin-top:7px;
+	vertical-align: middle;
+}
+
+.ico-x-medium {
+	width: 128px;
+	height: 128px;
+	/*padding:15px;*/
+	font-size:60px;
+}
+
+.ico-x-medium .inner-circle
+{
+	width:80%;
+	height:80%;
+	margin-top:13px;
+	vertical-align: middle;
+}
+
+
+
+/* icon for flickr */
+.ico-small .flickr i
+{
+	font-size:10px;
+	/*margin-top:20px;*/
+
+}
+
+.ico-medium .flickr i
+{
+	font-size:18px;
+	/*margin-top:30px;*/
+}
+
+
+.ico-x-medium .flickr i
+{
+	font-size:30px;
+	/*margin-top:50px;*/
+} 
+
+.flickr .left{
+	color:#0063dc;
+}
+
+.flickr .right{
+	color:#ff0084;
+}
+
+
+
+/* Social background */
+.twitter {
+	background-color: #00aced;
+	
+}
+.facebook
+{
+	background-color:#3b5998;
+	
+}
+.linkedin
+{
+	background-color:#3399cc;
+}
+.digg
+{
+	background-color:#389fda;
+}
+
+.dribbble
+{
+	background-color:#ea4c88;
+}
+
+.pinterest
+{
+	background-color:#cb2027;
+}
+
+.gplus
+{
+	background-color:#d14333;
+}
+
+.tumblr
+{
+	background-color:#304e6a;
+}
+
+.flickr
+{
+	background-color:#cdcdcd;
+	
+	
+}
+
+.youtube
+{
+	background-color:#c70c0c;
+}
+
+.forrst
+{
+	background-color:#356b22;
+}
+
+.skype
+{
+	background-color:#00aff0;
+}
+
+
+.rss
+{
+	background-color:#ff5400;
+}
+
+.contact
+{
+	background-color:#7188b6;
+}
+.share
+{
+	background-color:#21a61b;
+}
+.other
+{
+	background-color:#bbbbbb;
+}
+
