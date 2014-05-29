@@ -3,7 +3,7 @@ socmedlib
 
 Image Less Social Media Libray
 
-Socmedlib is Imageless icon using CSS3 technology, PSD design is based on graphicfuel.com
+Socmedlib is Imageless icon using CSS3 technology
 
 Build with Font-awesome for the icon
 
@@ -36,10 +36,20 @@ And The Icon Lib using the Font-Awesome
 
 No More Image
  You can use different size by replacing .ico-small 
+ <blockquote>
 <code>
 								&lt;a href="#" class="social-circle ico-small "&gt;
 </code>
-ico-medium
-ico-x-medium
+							</code>
+</blockquote>
+<ul>
+<li>ico-medium</li>
+<li>ico-x-medium</li>
+</ul>
 
+Credit
+<p><strong>PSD Design :</strong> <p>
+<ul>
+<li>http://www.graphicsfuel.com/2012/09/15-free-social-media-icons-psd-png/</li>
+</ul>
 
