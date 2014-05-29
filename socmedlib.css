@@ -12,6 +12,16 @@ a.social-circle:hover
 	text-decoration: none;
 	
 }
+
+
+
+
+/* Circle Style
+ * Based On graphicfuel.com 
+ * 15 free social media icons (PSD & PNG)  
+ */ 
+ 
+
 .social-circle {
 	position: relative;
 	border-radius: 50%;
@@ -27,7 +37,7 @@ a.social-circle:hover
 	);
 	background-image: -o-linear-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
 	background-image: -moz-linear-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
-	background-image: -webkit-linear-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
+	background-image: -webkit-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
 	background-image: -ms-linear-gradient(top, #D5D1D2 0%, #F6F5F5 100%);
 	background-image: linear-gradient(to top, #D5D1D2 0%, #F6F5F5 100%);
 	border: 1px solid rgba(225,225,225,1);
