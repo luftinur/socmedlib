@@ -14,6 +14,12 @@ body
 	margin-top:10px;
 }
 
+.beta 
+{
+	font-weight: 700;
+	font-size:12px;
+	 
+}
 .container .row {
 	margin-top: 20px;
 }
