@@ -8,6 +8,11 @@ Socmedlib is Imageless icon using CSS3 technology, PSD design is based on graphi
 Build with Font-awesome for the icon
 
 How To Use
+Load the socmedlib.css
+<link rel="stylesheet" href="yourpathto/socmedlib.css" type="text/css" />
+And The Icon Lib using the Font-Awesome
+<link rel="stylesheet" href="youpathto/css-lib/font-awesome/css/font-awesome.css"  type="text/css"/>
+
 <blockquote>
 							<code>
 								&lt;a href="#" class="social-circle ico-small "&gt;
@@ -24,6 +29,8 @@ No More Image
  You can use different size by replacing .ico-small 
 <code>
 								&lt;a href="#" class="social-circle ico-small "&gt;
-							</code>
+</code>
 ico-medium
 ico-x-medium
+
+
