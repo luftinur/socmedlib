@@ -9,9 +9,14 @@ Build with Font-awesome for the icon
 
 How To Use
 Load the socmedlib.css
-<link rel="stylesheet" href="yourpathto/socmedlib.css" type="text/css" />
+
+<blockquote>
+<code>
+&lt;link rel="stylesheet" href="yourpathto/socmedlib.css" type="text/css" /&gt;
+</code>
+</blockquote>
 And The Icon Lib using the Font-Awesome
-<link rel="stylesheet" href="youpathto/css-lib/font-awesome/css/font-awesome.css"  type="text/css"/>
+&lt;link rel="stylesheet" href="youpathto/css-lib/font-awesome/css/font-awesome.css"  type="text/css"/&gt;
 
 <blockquote>
 							<code>
