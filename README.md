@@ -16,7 +16,11 @@ Load the socmedlib.css
 </code>
 </blockquote>
 And The Icon Lib using the Font-Awesome
-&lt;link rel="stylesheet" href="youpathto/css-lib/font-awesome/css/font-awesome.css"  type="text/css"/&gt;
+<blockquote>
+<code>
+&lt;link rel="stylesheet" href="yourpathto/css-lib/font-awesome/css/font-awesome.css"  type="text/css"/&gt;
+</code>
+</blockquote>
 
 <blockquote>
 							<code>
